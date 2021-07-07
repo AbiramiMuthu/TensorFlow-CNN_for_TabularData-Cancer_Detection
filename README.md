@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbiramiMuthu
 - 👀 I’m currently working as a NLP Engineer
 - 🌱 ML/NLP/DL projects
-- 💞️ This repo has few of the DS usecases i tried
+- 💞️ This repo has few DS usecases i tried
 - 📫 abiraimuthu2009@gmail.com
 
 <!---
